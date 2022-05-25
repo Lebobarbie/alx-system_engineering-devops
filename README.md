@@ -1,1 +1,1 @@
-My bash shell readme
+Script that prints absolute path name
