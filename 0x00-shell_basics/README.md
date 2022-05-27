@@ -1,1 +1,1 @@
-Absolute path name
+Shell readme
